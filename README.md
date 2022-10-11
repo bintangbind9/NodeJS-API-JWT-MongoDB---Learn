@@ -14,4 +14,4 @@ Dev Dependencies:
 
 
 Thanks to:
-<a href="https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/">Idris Olubisi</a>
+<a href="https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/" target="_blank">Idris Olubisi</a>
